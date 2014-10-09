@@ -91,7 +91,7 @@ root.insertAdjacentHTML('afterbegin', '<button>world</button>')
 root.insertAdjacentHTML('beforeend', document.createElement('button'));
 ```
 
-`insertAdjacentElement` is not supported by Firefox and you'll need to use polyfills or [**bredele/dominsert](http://github.com/bredele/dominsert)**
+`insertAdjacentElement` is not supported by Firefox and you'll need to use polyfills or **[bredele/dominsert](http://github.com/bredele/dominsert)**
 
 ## License
 
