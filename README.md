@@ -30,7 +30,7 @@ root.insertAdjacentHTML('beforeend', '<button>world</button>')
 	<span>hello</span>
 	<button>world</button>
 </div>
-
+```
   > It is actually faster and more flexbile than its equivalent using `innerHTML` and`appendChild`.  See [benchmark](http://jsperf.com/innerhtml-vs-insertadjacent)
 
 ### afterend
